@@ -1,0 +1,5 @@
+head:has(link[rel="canonical"][href$="/c/schede-didattiche/ritmi-di-saluto"])
+  + body
+  #file-wrapper {
+  border: solid black 5px;
+}
