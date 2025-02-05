@@ -1,4 +1,4 @@
-head:has(link[rel="canonical"][href$="/c/schede-didattiche/ritmi-di-saluto"])
+head:has(link[rel="canonical"][href$="c/test-post-space/f13121"])
   + body
   #file-wrapper {
   border: solid black 5px;
